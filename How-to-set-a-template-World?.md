@@ -16,7 +16,7 @@ I have two different world types as templates: Flatmap & Watermap
 After we have done this, we have to tell WorldSystem the names of our Worlds on configure them.
 Open the config.yml with a text-editor or like me in the terminal via nano.
 
-![WorldSystem Config](https://www.bilder-upload.eu/upload/f189d5-1553885858.png)
+![WorldSystem config](https://ibb.co/vcW2PGC)
 
 Under the point **templates** you can set the two template worlds. On the first, so we have to set the name of our world here, in my case Flatmap & Watermap.
 
@@ -27,7 +27,8 @@ We only have to tell WorldSystem the default world, the user gets when multichoo
 We just have to put the name of the world under the point default.
 
 After this, we are done and can reload our server to use the template worlds.
-![Config after setting up default worlds](https://i.ibb.co/VHKQNxT/names-1.png)
+
+![WorldSystem Config after setup](https://www.bilder-upload.eu/upload/f189d5-1553885858.png)
 
 **In a nutshell:**
 > Put the worlds into worldsources folder
