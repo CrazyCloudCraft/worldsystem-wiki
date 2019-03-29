@@ -7,7 +7,7 @@ In the following, I will explain how to do this.
 First of all, you need to put your Minecraft worlds to the folder, where WorldSystem searches for templates, this is 
 **/plugins/WorldSystem/WorldSources.**
 
-![The worlds in right place](https://i.ibb.co/bRb4Y9L) 
+![The worlds in right place](https://i.ibb.co/bRb4Y9L/worldtypes.png) 
 
 
 
