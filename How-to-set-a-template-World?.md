@@ -16,7 +16,7 @@ I have two different world types as templates: Flatmap & Watermap
 After we have done this, we have to tell WorldSystem the names of our Worlds on configure them.
 Open the config.yml with a text-editor or like me in the terminal via nano.
 
-![WorldSystem config](https://ibb.co/vcW2PGC)
+![WorldSystem config](https://i.ibb.co/3TbtNq5/pre-1.png)
 
 Under the point **templates** you can set the two template worlds. On the first, so we have to set the name of our world here, in my case Flatmap & Watermap.
 
