@@ -1,7 +1,7 @@
 # How to set a template
 (WiP)
 
-Well, most users of the WorldSystem won't want to use the standard worlds and will want to add their own.
+Well, most users of WorldSystem don't want to use the standard worlds and want to add their own.
 In the following, I will explain how to do this.
 
 First of all, you need to put your Minecraft worlds to the folder, where WorldSystem searches for templates, this is 
