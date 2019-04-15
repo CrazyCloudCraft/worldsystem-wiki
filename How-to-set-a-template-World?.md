@@ -1,5 +1,5 @@
 # How to set a template
-(WiP)
+
 
 Well, most users of WorldSystem don't want to use the standard worlds and want to add their own.
 In the following, I will explain how to do this.
