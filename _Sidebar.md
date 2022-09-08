@@ -1,1 +1,3 @@
-This is a sidebar
+Wiki writers:
+trainerlord
+CrazyCloudCraft
