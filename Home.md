@@ -9,14 +9,22 @@ Welcome to the WorldSystem wiki!
 </p>
   
 <p align="center">
-  <a href="https://www.spigotmc.org/resources/49756/">» Spigot Page «</a>
+  <a>» </a>
+  <a href="https://www.spigotmc.org/resources/49756/">Spigot Page</a>
+  <a> «</a>
 </p>
 <p align="center">
-  <a href="https://github.com/trainerlord/WorldSystem/issues">» Bug-Report / Feature Request «</a>
+  <a>» </a>
+  <a href="https://github.com/trainerlord/WorldSystem/issues">Bug-Report / Feature Request</a>
+  <a> «</a>
 </p>
 <p align="center">
-  <a href="https://discord.gg/WYz7Qck">» Discord Support «</a>
+  <a>» </a>
+  <a href="https://discord.gg/WYz7Qck">Discord Support</a>
+  <a> «</a>
 </p>
 <p align="center">
-  <a href="https://github.com/trainerlord/WorldSystem">» Source Code «</a>
+  <a>» </a>
+  <a href="https://github.com/trainerlord/WorldSystem">Source Code</a>
+  <a> «</a>
 </p>
