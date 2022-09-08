@@ -15,7 +15,7 @@ Welcome to the WorldSystem wiki!
 </p>
 <p align="center">
   <a>» </a>
-  <a href="https://github.com/trainerlord/WorldSystem/issues">Bug-Report / Feature Request</a>
+  <a href="https://github.com/trainerlord/WorldSystem/issues">Bug Reports & Feature Requests</a>
   <a> «</a>
 </p>
 <p align="center">
