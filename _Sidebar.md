@@ -1,7 +1,46 @@
 <p align="center">
     <img src="https://github.com/CrazyCloudCraft/worldsystem-depecated/raw/master/.github/Worldsystemlogo_V24X.png" width="700">
+<p align="center">
+  <a href="https://github.com/trainerlord/WorldSystem/wiki">» Main page «</a>
+</p>
 
 
 Wiki writers:  
 @trainerlord  
 @CrazyCloudCraft  
+
+
+<!--
+Code formattings:
+
+Little Text in the center:
+
+<p align="center">
+  <a>The text</a>
+</p>
+
+Titles in different size (center)
+
+<h3 align="center">
+Hi, i'm a Title
+</h3>
+
+Pictures with link
+
+<p align="center">
+    <a href="https://my.link/">
+    <img src="https://pic.ture/pic.png" />
+</a>
+
+Pictures without link
+
+<p align="center">
+    <img src="https://pic.ture/pic.png" />
+</p>
+
+Pictures with width
+
+<p align="center">
+    <img src="https://pic.ture/pic.png" width="150">
+</p>
+-->
