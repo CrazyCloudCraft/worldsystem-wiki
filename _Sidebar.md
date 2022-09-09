@@ -9,9 +9,9 @@
 Install & setup
 </h3>
 
-<h3 align="side">
+<h4 align="side">
 Wiki writers:
-</h3>  
+</h4>  
 <p align="center">
   <a href="https://github.com/trainerlord/">@trainerlord</a>
   <a> & </a>
