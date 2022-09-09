@@ -10,7 +10,7 @@ Install & setup
 </h3>
    
 - [[Install the plugin|install]]
-  - [[config.yml|install#Configuration]]  
+  - [[Configuration|install#Configuration]]  
   - [[config.yml|install#config.yml]]  
   - [[settings.yml|install#settings.yml]]      
 
