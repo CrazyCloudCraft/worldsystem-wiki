@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/CrazyCloudCraft/worldsystem-depecated/raw/master/.github/Worldsystemlogo_V24X.png" width="700">
+    <img src="https://github.com/CrazyCloudCraft/worldsystem-depecated/raw/master/.github/Worldsystemlogo_V24X.png" width="700" alt="WorldSystem">
 <p align="center">
   <a>» </a>
   <a href="https://github.com/trainerlord/WorldSystem/wiki">Main page</a>
