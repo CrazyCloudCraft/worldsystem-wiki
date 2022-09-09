@@ -6,8 +6,14 @@
 
 
 Wiki writers:  
-@trainerlord  
-@CrazyCloudCraft  
+<p align="center">
+  <a href="https://github.com/trainerlord/">@trainerlord</a>
+</p>
+<p align="center">
+  <a href="https://github.com/CrazyCloudCraft/">@CrazyCloudCraft</a>
+</p>
+
+  
 
 
 <!--
