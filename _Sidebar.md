@@ -5,6 +5,9 @@
   <a href="https://github.com/trainerlord/WorldSystem/wiki">Main page</a>
   <a> «</a>
 </p>
+<h3 align="side">
+Install & setup
+</h3>
 
 
 Wiki writers:  
