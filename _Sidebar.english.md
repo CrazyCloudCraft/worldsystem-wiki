@@ -13,6 +13,15 @@ Install & setup
   - [[Configuration|install#Configuration]]  
   - [[config.yml|install#config.yml]]  
   - [[settings.yml|install#settings.yml]]      
+<h3 align="side">
+Informations
+</h3>
+  
+- **[[Commands]]**
+- **[[Permissions]]**
+- **[[FAQ]]**
+- **[[Common issues|knownissues]]**
+- **[[Servers with WorldSystem|servers-with-worldsystem]]**
 
 <h4 align="side">
 Wiki writers:
