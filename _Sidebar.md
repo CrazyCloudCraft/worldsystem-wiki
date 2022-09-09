@@ -8,7 +8,9 @@
 <h3 align="side">
 Install & setup
 </h3>
-   
+   • [Install the plugin](https://github.com/trainerlord/WorldSystem/wiki/install)
+          
+
 <h4 align="side">
 Wiki writers:
 </h4>  
@@ -19,7 +21,6 @@ Wiki writers:
 </p>
 
   
-
 
 <!--
 Code formattings:
