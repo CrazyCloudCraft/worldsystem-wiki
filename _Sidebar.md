@@ -11,7 +11,7 @@ Install & setup
    
 - [[Install the plugin|install]]
   - [[config.yml|install#config.yml]]  
-  - [[Install the plugin|install#settings.yml]]      
+  - [[settings.yml|install#settings.yml]]      
 
 <h4 align="side">
 Wiki writers:
