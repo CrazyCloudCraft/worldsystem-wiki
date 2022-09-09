@@ -9,7 +9,7 @@
 Install & setup
 </h3>
    
-   • [Install the plugin](https://github.com/trainerlord/WorldSystem/wiki/install)
+- [[Install the plugin|install]]
           
 
 <h4 align="side">
