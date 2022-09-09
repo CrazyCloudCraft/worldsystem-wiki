@@ -10,7 +10,7 @@ Install & setup
 </h3>
    
 - [[Install the plugin|install]]
-          
+- [[config.yml|install#config.yml]]        
 
 <h4 align="side">
 Wiki writers:
