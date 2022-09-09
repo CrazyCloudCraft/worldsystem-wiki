@@ -9,7 +9,7 @@
 Install & setup
 </h3>
 • Hi
-
+○
 <h4 align="side">
 Wiki writers:
 </h4>  
