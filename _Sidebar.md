@@ -8,9 +8,6 @@
 <h3 align="side">
 Install & setup
 </h3>
-• Hi
-○   
--
    
 <h4 align="side">
 Wiki writers:
