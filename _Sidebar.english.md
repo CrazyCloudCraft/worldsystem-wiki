@@ -13,6 +13,8 @@ Install & setup
   - [[Configuration|install#Configuration]]  
   - [[config.yml|install#config.yml]]  
   - [[settings.yml|install#settings.yml]]      
+
+- [[Setup world templates|templates]]
 <h3 align="side">
 Informations
 </h3>
