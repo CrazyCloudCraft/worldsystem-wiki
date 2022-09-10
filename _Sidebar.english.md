@@ -25,7 +25,16 @@ Informations
 - **[[Common issues|knownissues]]**
 - **[[Servers with WorldSystem|servers-with-worldsystem]]**
 
-<h4 align="side">
+<h3 align="side">
+Development
+</h3>
+  
+- [[Changelog|changelog]]
+- [[Contribute Code|contribute]]
+- [[Dev FAQ|dev-FAQ]]
+- [[Issues in a sorted way|sorted-issues]]
+  
+<h4 align="center">
 Wiki writers:
 </h4>  
 <p align="center">
@@ -37,9 +46,12 @@ Wiki writers:
   
 
 <!--
+###############################################
+
+- [[|]]
 Code formattings:
 
-Little Text in the center:
+Little text in the center:
 
 <p align="center">
   <a>The text</a>
@@ -48,7 +60,7 @@ Little Text in the center:
 Titles in different size (center)
 
 <h3 align="center">
-Hi, i'm a Title
+Hi, i'm a title
 </h3>
 
 Pictures with link
@@ -64,9 +76,9 @@ Pictures without link
     <img src="https://pic.ture/pic.png" />
 </p>
 
-Pictures with width
+Pictures with width and alt
 
 <p align="center">
-    <img src="https://pic.ture/pic.png" width="150">
+    <img src="https://pic.ture/pic.png" width="150" alt="Best picture ever">
 </p>
 -->
